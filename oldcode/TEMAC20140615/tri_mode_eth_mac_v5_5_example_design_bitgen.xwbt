@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\xilinxtrain\TEMAC20140615\tri_mode_eth_mac_v5_5_example_design.ncd
+OUTFILE=D:\xilinxtrain\TEMAC20140615\tri_mode_eth_mac_v5_5_example_design.bit
+FAMILY=Kintex7
+PART=xc7k325t-2ffg900
+WORKINGDIR=D:\xilinxtrain\TEMAC20140615
+LICENSE=ISE
+USER_INFO=__0_0_0
